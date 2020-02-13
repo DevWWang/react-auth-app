@@ -1,8 +1,0 @@
-﻿{
-    "connectionString": "mongodb://admin:admin123@192.168.1.138:27017/node-mongo-registration-login-api?authSource=admin",
-    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
-    "googleAPIKey": "AIzaSyBW1pgv6av5UNsgxhRdDrxutXN1njFlK_M",
-    "webpushContact": "mailto: wwang@novacocept.com",
-    "vapidPublicKey": "BK3fIB7j2HOqCfjRCfNayXZwCkKrfn8kgLPCQxOh30O9BeuuIEG5CctvI7iNu9cN9b1FiepXVbsNqEMEaSlpptk",
-    "vapidPrivateKey": "3ZpMo184c_PlqAxlVUUDyeGQOf25BTG3QpQeYp3Yl5g"
-}
